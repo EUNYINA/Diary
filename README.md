@@ -1,0 +1,2 @@
+# Diary
+toy project - Diary
